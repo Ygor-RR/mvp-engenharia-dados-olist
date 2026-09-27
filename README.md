@@ -102,7 +102,7 @@ Também foram realizadas verificações de:
 
 O relatório completo apresenta o contexto do projeto, a coleta dos dados, a modelagem, o catálogo de dados, o pipeline, as validações de qualidade, as respostas às perguntas de negócio, os screenshots de evidência e a autoavaliação.
 
-📄 [Acessar o relatório completo em PDF](relatorio_mvp_olist.pdf)
+📄 [Acessar o relatório completo em PDF](./MVP%20DE%20ENGENHARIA%20DE%20DADOS.pdf)
 
 ## Repositório
 
