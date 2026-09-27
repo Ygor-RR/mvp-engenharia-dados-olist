@@ -20,7 +20,7 @@ O projeto busca responder perguntas relacionadas a:
 
 ## Fonte dos dados
 
-Foi utilizado o **Brazilian E-Commerce Public Dataset by Olist**, disponibilizado no Kaggle.
+Foi utilizado o **Brazilian E-Commerce Public Dataset by Olist**, disponibilizado no Kaggle em https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
 
 O conjunto contém dados de:
 
